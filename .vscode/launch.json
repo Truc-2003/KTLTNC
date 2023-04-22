@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/PC TRUC/Desktop/C++/ktlt.cpp",
-      "program": "c:/Users/PC TRUC/Desktop/C++/ktlt.cpp/build/Debug/outDebug",
+      "cwd": "c:/Users/PC TRUC/Desktop/C++/ktlt.cpp/KTLTNC_1",
+      "program": "c:/Users/PC TRUC/Desktop/C++/ktlt.cpp/KTLTNC_1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
